@@ -15,12 +15,15 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Algorithm-blue?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **AI/ML & Agentic Systems**  
 ![AGNO](https://img.shields.io/badge/AGNO-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-00B4D8?style=for-the-badge)
-![Crew AI](https://img.shields.io/badge/Crew%20AI-6A1B9A?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-AI-black?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLM-Orchestration-green?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG%20Pipeline-F57C00?style=for-the-badge)
 
@@ -32,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-5C3EE8?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-800080?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-0093B8?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Version Control & DevOps**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,6 +43,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -74,18 +78,32 @@
 - Extracts skills, education, and experience from resumes.  
 - Matches candidates to job descriptions using cosine similarity on sentence embeddings.
 
+### 🦻 Deaf-Watch  
+- Real-time speech-to-text accessibility app designed to support users with hearing impairments.  
+- Built using HTML, CSS, JavaScript, Python, and PHP.  
+- Converts spoken audio into live text on a responsive web interface.
+
+### 🌍 AI Trip Planner  
+- Built a responsive front-end using React, Vite, and TailwindCSS.  
+- Supports destination search and displays trip details.  
+- Demonstrates modern front-end practices and clean UI/UX.
+
+### 🧪 QA_Agent_Backend  
+- Backend infrastructure to support intelligent agents for test case generation.  
+- Integrates AGNO and LangChain with FastAPI and LLM prompts.
+
 ---
 
-## 📫 Reach Me
+## 📢 Reach Me
 
-- 📧 Email: [swativibhute.ai@gmail.com](mailto:swativibhute.ai@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/swativibhute](https://linkedin.com/in/swativibhute)  
-- 🖥️ GitHub: [github.com/swati-vibhute](https://github.com/swati-vibhute)
+- 📧 Email: [swativibhute276@gmail.com](mailto:swativibhute276@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/swativibhute/](https://www.linkedin.com/in/swativibhute/)  
+- 💻 GitHub: [https://github.com/swatiVibhute20](https://github.com/swatiVibhute20)
 
 ---
 
 ## 🌱 Currently Learning
-> CrewAI, Agent Swarms, Prompt Engineering for Compliance & Testing Domains.
+> Claude, Gemini, Groq SDKs, Agent Swarms, Prompt Engineering for Compliance & Testing Domains.
 
 ## ❤️ Interests
-> AI x QA | Cognitive AI | Plant Lover | Designing Agents | Technical Blogging
+> AI x QA | AI-ML |Rag | Plant Lover | Designing Agents | Drawing 
